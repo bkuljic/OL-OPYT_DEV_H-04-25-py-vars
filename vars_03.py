@@ -41,7 +41,6 @@ studija, naziv studija, naziv sveučilišta
 student = 'Pero Peric, 12345678901; pero.peric@gmail.com'
 
 # Opcija 2
-
 first_name = 'Pero'
 last_name = 'Peric'
 oib = '12345678901',
